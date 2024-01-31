@@ -1,0 +1,203 @@
+body {
+    margin-top: 105px;
+    background: rgb(242, 245, 247);
+    height: 100vh;
+}
+
+.navbar {
+    color: blueviolet;
+    height: 10vh;
+    background: rgba(207, 207, 207, 0.397);
+}
+
+.nav-item {
+    font-size: 1.2rem;
+    padding-right: 20px;
+    font-weight: 500;
+}
+
+#showcase {
+    margin-left: -0px;
+    margin-top: 200px;
+    height: 100vh;
+}
+
+#showcase h1 {
+    font-size: 50px;
+    width: 500px;
+    height: 400px;
+}
+
+
+/* #showcase1 {
+    background: rgb(255, 250, 245);
+    margin-left: 710px;
+    height: 0vh;
+    border-radius: 250px;
+} */
+
+.display-4 {
+    font-size: 70px;
+    font-weight: 800;
+    margin-left: -50px;
+}
+
+.img-fluid {
+    /* margin-left: 650px;
+    margin-top: -500px; */
+    border-radius: 50px;
+    height: 98vh;
+}
+
+.btn {
+    margin-top: -500px;
+    color: white;
+    background: blueviolet;
+    margin-bottom: -200px;
+    padding: 10px;
+    margin-left: -50px;
+}
+
+.itis {
+    font-size: 20px;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+
+.ttt {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.coin {
+    margin-left: -50px;
+    color: blueviolet;
+}
+
+.lead {
+    margin-left: -50px;
+    width: 680px;
+    font-weight: 400;
+}
+
+.flip {
+    margin-left: 790px;
+    margin-top: -370px;
+    margin-bottom: 150px;
+}
+
+.coin1 {
+    color: blueviolet;
+}
+
+.lead1 {
+    font-size: 20px;
+}
+
+.img1 {
+    margin-left: -40px;
+    border-radius: 250px;
+    margin-bottom: 100px;
+}
+
+.pro {
+    margin-left: 520px;
+    margin-top: -30px;
+}
+
+#space {
+    background: rgb(71, 70, 122);
+    color: white;
+    height: 28rem;
+    margin-top: 100px;
+}
+
+.amy {
+    padding-top: 140px;
+    padding-left: 200px;
+    font-size: 30px;
+    font-weight: 600;
+    width: 70%;
+}
+
+.rani {
+    padding-left: 200px;
+    font-size: 18px;
+}
+
+.me {
+    margin-left: 600px;
+    margin-top: -240px;
+}
+
+.hav {
+    margin-top: 76px;
+}
+
+.say {
+    font-weight: 600;
+    font-size: 55px;
+    margin-left: 10px;
+}
+
+.mag {
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.main {
+    margin-left: -10px;
+    margin-top: 100px;
+}
+
+.him {
+    margin-left: 630px;
+    width: 50%;
+    margin-top: -500px;
+}
+
+.man {
+    padding-left: 550px;
+    margin-top: -60px;
+    width: 40%;
+}
+
+.way {
+    padding-left: 850px;
+    margin-top: -120px;
+}
+
+.bok {
+    margin-top: 100px;
+}
+
+.py-3 {
+    background-color: rgb(86, 85, 148);
+    height: 25rem;
+}
+
+.expcontent {
+    margin-top: 150px;
+}
+
+.testcontent {
+    margin-top: 150px;
+}
+
+.content {
+    margin-top: 150px;
+}
+
+.pro {
+    padding-bottom: 20px;
+}
+
+
+/* #showcase1 {
+    background-image: url(./img/Mask-Group-YannEjab43TlazqW.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 48%;
+    margin-top: -00px;
+    height: 106vh;
+} */
